@@ -1,6 +1,9 @@
 
-# color Detection and segmenataion with threshholds for non uniform colors in image
-
+# Color Detection and segmenataion image with threshholds for non uniform colors
+here you can see some outputs of the programe.
+In each output a pie chart is shown from main color of image to help user to decide what colors are exist in image.
+after entering the input color in hex number, user can see the segments which contain that color OR any close color to that and how many proprortion each segment is from whole image.
+I used threshhod to help algorithm(kmeans) to choose not onlu user color but also close color to that in each segment since due to illumination variant in general image which are not taken in isolate situation in case of illuminance, occlusion and etc. ,it help to segment better each area which contain that similar colors.
 ![download (9)](https://user-images.githubusercontent.com/45369296/112512013-4149da00-8d93-11eb-8d93-1a5151a309b0.png) ![download (10)](https://user-images.githubusercontent.com/45369296/112512118-5e7ea880-8d93-11eb-8b98-5649eaaa2359.png)
 
 

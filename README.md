@@ -16,7 +16,7 @@ ksdnxskjddkjs
 
 wqdsafdagsgdfxcfhd
 
-![download (16)](https://user-images.githubusercontent.com/45369296/112512765-f41a3800-8d93-11eb-881a-47215bd49930.png) ![download (18)](https://user-images.githubusercontent.com/45369296/112512779-f67c9200-8d93-11eb-9004-28f37801a53f.png)
+![download (17)](https://user-images.githubusercontent.com/45369296/112512768-f4b2ce80-8d93-11eb-9306-9dd7afeb5fc5.png) ![download (18)](https://user-images.githubusercontent.com/45369296/112512779-f67c9200-8d93-11eb-9004-28f37801a53f.png)
 
-![download (17)](https://user-images.githubusercontent.com/45369296/112512768-f4b2ce80-8d93-11eb-9306-9dd7afeb5fc5.png)
 
+![download (16)](https://user-images.githubusercontent.com/45369296/112512765-f41a3800-8d93-11eb-881a-47215bd49930.png)

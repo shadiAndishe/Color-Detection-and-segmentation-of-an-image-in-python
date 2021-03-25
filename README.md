@@ -6,7 +6,7 @@
 
 ![download (8)](https://user-images.githubusercontent.com/45369296/112512053-50308c80-8d93-11eb-8a7e-dfad58b61f27.png)
 
-ksdnxskjddkjs
+__This will also be bold__
 
 
 
@@ -14,7 +14,7 @@ ksdnxskjddkjs
 
 ![contour1](https://user-images.githubusercontent.com/45369296/112512454-aa315200-8d93-11eb-913a-109af42b2430.png)
 
-wqdsafdagsgdfxcfhd
+__This will also be bold__
 
 ![download (17)](https://user-images.githubusercontent.com/45369296/112512768-f4b2ce80-8d93-11eb-9306-9dd7afeb5fc5.png) ![download (18)](https://user-images.githubusercontent.com/45369296/112512779-f67c9200-8d93-11eb-9004-28f37801a53f.png)
 
